@@ -1,6 +1,8 @@
 # MNIST & CIFAR‑10: 
 ## MLP and CNN Benchmark
 
+This project is for CS 4375 Machine Learning Course
+
 This project benchmarks three multilayer‑perceptron (MLP) architectures against three convolutional‑neural‑network (CNN) architectures on **MNIST** (digit image classification) and **CIFAR‑10** (natural 32 × 32 color images).  
 
 A 3‑fold cross‑validation grid explores learning rate, batch size, optimizer and dropout choices. All training logs are parsed into tidy CSVs for analysis and plotting.
